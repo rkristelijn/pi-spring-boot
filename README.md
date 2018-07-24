@@ -52,3 +52,4 @@ Spring Boot is the starting point for building all Spring-based applications. Sp
     - find: `sts`, go
       - Sprint Tools (aka Spring IDE ans Spring Tools Suite)
 - MySQL
+  - `sudo apt-get install mysql-server mysql-client`
