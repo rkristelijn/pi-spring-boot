@@ -37,6 +37,7 @@ Spring Boot is the starting point for building all Spring-based applications. Sp
 # What do we Need
 - Java (latest) - JRE 1.8.0 is already installed
 - Maven (latest)
+  - `sudo apt-get install maven`
 - Web Server
 - IDE such as IntelliJ or Spring STS
   - `sudo apt-get install eclipse` -> eclipse will appear in start menu
