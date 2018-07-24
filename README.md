@@ -39,4 +39,6 @@ Spring Boot is the starting point for building all Spring-based applications. Sp
 - Maven (latest)
 - Web Server
 - IDE such as IntelliJ or Spring STS
+  `sudo apt-get install eclipse`
+  install sts from marketplace in eclipse
 - MySQL
