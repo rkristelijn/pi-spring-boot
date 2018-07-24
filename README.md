@@ -53,3 +53,5 @@ Spring Boot is the starting point for building all Spring-based applications. Sp
       - Sprint Tools (aka Spring IDE ans Spring Tools Suite)
 - MySQL
   - `sudo apt-get install mysql-server mysql-client`
+  - after that you can connect using `sudo mysql -u root`
+  - not sure why [this](https://stackoverflow.com/questions/10895163/how-to-find-out-the-mysql-root-password) doesn't work and `mysql -u root -p` doesn't work as well.
