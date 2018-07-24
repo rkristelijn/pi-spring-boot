@@ -22,3 +22,10 @@ Spring Boot is the starting point for building all Spring-based applications. Sp
 - Curated dependencies that just work
 - Production-ready features such as tracing, metrics and health status
 - Works in your favorite IDE - Spring Tool Suite, IntelliJ IDEA and NetBeans
+
+# What do we Need
+- Java (latest)
+- Maven (latest)
+- Web Server
+- IDE such as IntelliJ or Spring STS
+- MySQL
