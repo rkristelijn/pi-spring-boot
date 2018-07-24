@@ -9,6 +9,7 @@ I have downloaded the Raspberry Pi Desktop [2018-06-27-rpd-x86-stretch.iso](http
 ## Spring Boot
 
 ### BUILD ANYTHING
+
 Spring Boot is designed to get you up and running as quickly as possible, with minimal upfront configuration of Spring. Spring Boot takes an opinionated view of building production ready applications.
 
 Spring Boot is the starting point for building all Spring-based applications. Spring Boot is designed to get you up and running as quickly as possible, with minimal upfront configuration of Spring.
@@ -22,6 +23,13 @@ Spring Boot is the starting point for building all Spring-based applications. Sp
 - Curated dependencies that just work
 - Production-ready features such as tracing, metrics and health status
 - Works in your favorite IDE - Spring Tool Suite, IntelliJ IDEA and NetBeans
+
+### Comparing to Node
+
+| _        | Node           | Spring Boot  |
+| ------------- |:-------------:| -----:|
+| Dependancy Management     | package.json | pom.xml |
+| Dependancy Manager      | NPM      |   Maven |
 
 # What do we Need
 - Java (latest)
