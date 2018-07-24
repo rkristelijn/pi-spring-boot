@@ -40,5 +40,14 @@ Spring Boot is the starting point for building all Spring-based applications. Sp
 - Web Server
 - IDE such as IntelliJ or Spring STS
   - `sudo apt-get install eclipse` -> eclipse will appear in start menu
-  - install sts from marketplace in eclipse
+  - Eclipse Marketplace
+    - Menu:help Install New Software, 
+    - Work With: --All Available Sites--
+    - type filet text: `marketplace`
+    - Flag: `Marketplace Client`
+    - click Next, Next, Accept, Finish, Trush Certificate, Ok, restart now (eclipse)
+  - STS
+    - Menu:help Eclipse market place
+    - find: `sts`, go
+      - Sprint Tools (aka Spring IDE ans Spring Tools Suite)
 - MySQL
