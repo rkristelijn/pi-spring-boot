@@ -30,6 +30,7 @@ Spring Boot is the starting point for building all Spring-based applications. Sp
 | ------------- |:-------------:| -----:|
 | Dependancy Management     | package.json | pom.xml |
 | Dependancy Manager      | NPM      |   Maven |
+| Web Server      | express, webpack      |   Tomcat (by Spring Boot) |
 
 # What do we Need
 - Java (latest)
