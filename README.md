@@ -35,7 +35,7 @@ Spring Boot is the starting point for building all Spring-based applications. Sp
 | Testing framework | Moocha | junit? |
 
 # What do we Need
-- Java (latest)
+- Java (latest) - JRE 1.8.0 is already installed
 - Maven (latest)
 - Web Server
 - IDE such as IntelliJ or Spring STS
