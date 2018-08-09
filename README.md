@@ -1,6 +1,22 @@
 # pi-spring-boot
 Tutorial on setting up a simple Spring Boot (Java Web) project on a Rapsberry Pi
 
+```yuml
+// {type:class}
+
+[Employee||CreateReservation();UpdateReservation();DeleteReservation()]
+[Admin||CreateReservation();UpdateReservation();DeleteReservation()]
+[Meeting|created;updated;createdBy;updatedBy;title;start;end;owner;type;desc]
+[Authority||ApproveReservation()]
+[Roles|enterpriseId;roles]
+
+[Roles]-[Admin]
+[Roles]-[Authority]
+[Employee]->[Meeting]
+[Authority]->[Meeting]
+[Admin]->[Meeting]
+```
+
 # Raspbian
 I have downloaded the Raspberry Pi Desktop [2018-06-27-rpd-x86-stretch.iso](http://downloads.raspberrypi.org/rpd_x86/images/) and installed it using VirtualBox on my laptop. Then I used the out of the box cd mount for the guest additions to fully utalize the screen resources. `sudo sh /media/cdrom/VBoxLinuxAdditions.run` and reboot.
 
